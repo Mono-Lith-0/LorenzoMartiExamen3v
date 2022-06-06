@@ -21,4 +21,7 @@ Apartado 2: 1 - He creado el nuevo proyecto y lo he situado dentro del directori
 3 - Al hacer el merge salta un error de colisión, las he corregido desde Netbeans quedándome con los cambios hechos en la rama.
 4 - La rama ha sido eliminada de la misma forma que se hizo en el apartado 19 del anterior ejercicio.
 5 - He eliminado el fichero .gitignore utilizando la instrucción rm.
-6 - 
+6 - Al añadir todos los ficheros al área de intercambio observamos cómo esta vez sí que está añadiendo los que estaban siendo ignorados anteriormente.
+7 - Lo primero de todo, ignoremos las versiones que hemos tenido que hacer para el fichero Izan.md; commit para main es la versión con los cambios realizados en el apartado 2 de este ejercicio. Ejercicio 2, apartado 1 es el commit para los cambios de Netbeans en la rama que he borrado, y los commits anteriores se corresponden con los del ejercicio anterior.
+8 - Se ha creado el nuevo repositorio en GitHub, se ha añadido una nueva dirección de repositorio remoto al repositorio local y se ha hecho un push.
+9 - https://github.com/Mono-Lith-0/LorenzoMartiExamen3v.git
