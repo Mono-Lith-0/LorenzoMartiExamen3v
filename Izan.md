@@ -10,4 +10,5 @@
 11 - Con un git log --oneline se muestran las diferentes versiones de nuestro repositorio, con el comando git restore podemos volver a una versión anterior de un fichero indicando en --source el código de la versión que deseamos recuperar.
 12 - @see: apartados 8 y 9; ahora mismo el texto del fichero es idéntico al de la versión de HEAD antes de hacer el commit.
 13 - repetimos la explicación para los apartados 8 y 9; esta vez las dos últimas líneas del fichero son distintas a su versión anterior.
-14 - 
+14 - Lo más importante a destacar es que hemos creado la nueva rama y nos hemos situado en ella en un solo paso gracias a la opción -b de git checkout, la cual permite exáctamente esto.
+15 - 
