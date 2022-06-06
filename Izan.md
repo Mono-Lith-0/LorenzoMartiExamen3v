@@ -17,4 +17,8 @@
 18 - Hacemos un checkout y un merge en cada una de las ramas, tras la fusión en ambas ramas tanto el HEAD como todas las ramas apuntan al último commit realizado.
 19 - Con la instrucción -d de git branch eliminamos la rama especificada.
 Apartado 2: 1 - He creado el nuevo proyecto y lo he situado dentro del directorio del repositorio, además estoy trabajando desde la nueva rama Netbeans_Lorenzo (He olvidado incluir el commit en la captura, pero como estamos añadiendo ficheros es necesario añadir el directorio del proyecto al área de intercambio primero).
-
+2 - He realizado las instrucciones indicadas en este apartado en la rama main y luego he hecho un commit.
+3 - Al hacer el merge salta un error de colisión, las he corregido desde Netbeans quedándome con los cambios hechos en la rama.
+4 - La rama ha sido eliminada de la misma forma que se hizo en el apartado 19 del anterior ejercicio.
+5 - He eliminado el fichero .gitignore utilizando la instrucción rm.
+6 - 
