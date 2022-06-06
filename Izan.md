@@ -14,4 +14,7 @@
 15 - Para poder hacer la fusión sobre la rama principal (para este repositorio tiene como nombre master) primero necesitamos hacer un checkout, y luego fusionarlos con un merge.
 16 - Repetimos el apartado 14 (por favor, ignorad que en un primer momento he confundido el orden de las opciones -a y -m).
 17 - En la información mostrada en el git log podemos ver que el HEAD apunta al último commit de la rama rama_Marti, las ramas rama_Lorenzo y master están situadas en el commit que he tenido que realizar para hacer el checkout a main.
-18 - 
+18 - Hacemos un checkout y un merge en cada una de las ramas, tras la fusión en ambas ramas tanto el HEAD como todas las ramas apuntan al último commit realizado.
+19 - Con la instrucción -d de git branch eliminamos la rama especificada.
+Apartado 2: 1 - He creado el nuevo proyecto y lo he situado dentro del directorio del repositorio, además estoy trabajando desde la nueva rama Netbeans_Lorenzo (He olvidado incluir el commit en la captura, pero como estamos añadiendo ficheros es necesario añadir el directorio del proyecto al área de intercambio primero).
+
