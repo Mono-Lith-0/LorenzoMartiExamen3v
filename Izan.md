@@ -5,4 +5,7 @@
 6 - Se utiliza el comando git commit -m "copia" para crear una nueva instantánea del repositorio, y le especificamos como título "copia" (ignorad el -a, pensaba que al añadir esta opción se añadiría el .gitignore al commit, pero esta opción solo sirve para ficheros que ya han sido guardados anteriormente y se desea actualizar).
 7 - He creado el nuevo fichero con el editor nano.
 8 - Esta vez he optado por añadir primero todos los ficheros al área de intercambio antes de hacer el commit y comprobar primero con un git status las modificaciones pendientes de confirmar.
-9 - 
+9 - Fichero modificado con éxito gracias a nano.
+10 - Repetir apartado 8 (¿Soy yo o el fichero Izan.md está siendo guardado en el commit a pesar de que este está guardado en el .gitignore?, no entiendo por qué ocurre esto pero supongamos que no está en seguimiento a pesar de todo).
+11 - Con un git log --oneline se muestran las diferentes versiones de nuestro repositorio, con el comando git restore podemos volver a una versión anterior de un fichero indicando en --source el código de la versión que deseamos recuperar.
+12 - 
