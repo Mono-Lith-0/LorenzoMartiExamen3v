@@ -8,4 +8,5 @@
 9 - Fichero modificado con éxito gracias a nano.
 10 - Repetir apartado 8 (¿Soy yo o el fichero Izan.md está siendo guardado en el commit a pesar de que este está guardado en el .gitignore?, no entiendo por qué ocurre esto pero supongamos que no está en seguimiento a pesar de todo).
 11 - Con un git log --oneline se muestran las diferentes versiones de nuestro repositorio, con el comando git restore podemos volver a una versión anterior de un fichero indicando en --source el código de la versión que deseamos recuperar.
-12 - 
+12 - @see: apartados 8 y 9; ahora mismo el texto del fichero es idéntico al de la versión de HEAD antes de hacer el commit.
+13 - 
