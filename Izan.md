@@ -12,4 +12,6 @@
 13 - repetimos la explicación para los apartados 8 y 9; esta vez las dos últimas líneas del fichero son distintas a su versión anterior.
 14 - Lo más importante a destacar es que hemos creado la nueva rama y nos hemos situado en ella en un solo paso gracias a la opción -b de git checkout, la cual permite exáctamente esto.
 15 - Para poder hacer la fusión sobre la rama principal (para este repositorio tiene como nombre master) primero necesitamos hacer un checkout, y luego fusionarlos con un merge.
-16 - 
+16 - Repetimos el apartado 14 (por favor, ignorad que en un primer momento he confundido el orden de las opciones -a y -m).
+17 - En la información mostrada en el git log podemos ver que el HEAD apunta al último commit de la rama rama_Marti, las ramas rama_Lorenzo y master están situadas en el commit que he tenido que realizar para hacer el checkout a main.
+18 - 
