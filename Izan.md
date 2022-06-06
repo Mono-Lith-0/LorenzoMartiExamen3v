@@ -11,4 +11,5 @@
 12 - @see: apartados 8 y 9; ahora mismo el texto del fichero es idéntico al de la versión de HEAD antes de hacer el commit.
 13 - repetimos la explicación para los apartados 8 y 9; esta vez las dos últimas líneas del fichero son distintas a su versión anterior.
 14 - Lo más importante a destacar es que hemos creado la nueva rama y nos hemos situado en ella en un solo paso gracias a la opción -b de git checkout, la cual permite exáctamente esto.
-15 - 
+15 - Para poder hacer la fusión sobre la rama principal (para este repositorio tiene como nombre master) primero necesitamos hacer un checkout, y luego fusionarlos con un merge.
+16 - 
