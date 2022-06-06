@@ -4,4 +4,5 @@
 5 - Mismo procedimiento que para el apartado anterior.
 6 - Se utiliza el comando git commit -m "copia" para crear una nueva instantánea del repositorio, y le especificamos como título "copia" (ignorad el -a, pensaba que al añadir esta opción se añadiría el .gitignore al commit, pero esta opción solo sirve para ficheros que ya han sido guardados anteriormente y se desea actualizar).
 7 - He creado el nuevo fichero con el editor nano.
-
+8 - Esta vez he optado por añadir primero todos los ficheros al área de intercambio antes de hacer el commit y comprobar primero con un git status las modificaciones pendientes de confirmar.
+9 - 
